@@ -4,7 +4,6 @@ Desenvolvedor fullstack apaixonado por desafios e inovação, buscando sempre ap
 
 ## O que tenho feito
 ![Kleverson GitHub stats](https://github-readme-stats.vercel.app/api?username=kleverson&show_icons=true&theme=radical)
-[![Kleverson WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kleverson)](https://github.com/kleverson/github-readme-stats)
 
 
 
