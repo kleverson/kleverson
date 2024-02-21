@@ -3,7 +3,6 @@
 Desenvolvedor fullstack apaixonado por desafios e inovação, buscando sempre aprender e crescer no universo da tecnologia. Com experiência em Flutter, React, React Native, Spring Boot, PHP, Laravel e Python, meu objetivo é criar soluções impactantes e eficientes. Movido pela curiosidade, enxergo na conexão entre diferentes linguagens e frameworks a chave para construir soluções inovadoras. Estou pronto para novos projetos que me permitam unir conhecimentos e criar experiências únicas
 
 ## O que tenho feito
-![Resume](https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 ![Metrics](https://metrics.lecoq.io/kleverson?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kleverson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
