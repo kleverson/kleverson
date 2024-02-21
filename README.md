@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/kleverson?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/kleverson?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kleverson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 <a href="https://app.daily.dev/klevs"><img src="https://api.daily.dev/devcards/v2/wZk224qGSomzrJ38Ini3v.png?r=4a9" width="356" alt="Kleverson Holanda's Dev Card"/></a>
