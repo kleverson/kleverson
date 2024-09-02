@@ -6,8 +6,3 @@ Desenvolvedor fullstack apaixonado por desafios e inovação, buscando sempre ap
 
 ## O que tenho feito
 ![Kleverson GitHub stats](https://github-readme-stats.vercel.app/api?username=kleverson&show_icons=true&theme=radical)
-
-
-
-## Meu devcard
-<a href="https://app.daily.dev/klevs"><img src="https://api.daily.dev/devcards/v2/wZk224qGSomzrJ38Ini3v.png?r=4a9" width="356" alt="Kleverson Holanda's Dev Card"/></a>
