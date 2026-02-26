@@ -1,8 +1,7 @@
-# Me chamo Kleverson 👋
+# I'm Kleverson 👋
 
-Desenvolvedor fullstack apaixonado por desafios e inovação, buscando sempre aprender e crescer no universo da tecnologia. Com experiência em Flutter, React, React Native, Spring Boot, PHP, Laravel e Python, meu objetivo é criar soluções impactantes e eficientes. Movido pela curiosidade, enxergo na conexão entre diferentes linguagens e frameworks a chave para construir soluções inovadoras. Estou pronto para novos projetos que me permitam unir conhecimentos e criar experiências únicas
+Full-stack developer passionate about solving complex problems and building innovative solutions. I’m constantly learning and evolving within the ever-changing world of technology.
 
-![Resume](https://myreadme.vercel.app/api/embed/kleverson?panels=userstatistics,toplanguages,commitgraph)
+With hands-on experience in Flutter, React, React Native, Spring Boot, PHP, Laravel, and Python, I focus on delivering scalable, efficient, and impactful applications.
 
-## O que tenho feito
-![Kleverson GitHub stats](https://github-readme-stats.vercel.app/api?username=kleverson&show_icons=true&theme=radical)
+Driven by curiosity and a strong problem-solving mindset, I believe that connecting different languages, frameworks, and architectures is the key to building truly innovative systems. I’m always open to new challenges and projects where I can combine knowledge, create value, and craft meaningful digital experiences.
